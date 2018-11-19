@@ -14,7 +14,7 @@ html,body {
   }
 
 .whiteborder {
-  background-color: rgba(117, 136, 170, 0.5);
+  background-color: rgba(117, 136, 170, 0.7);
   border-radius: 0.4em;
   padding: 1em;
 }
@@ -27,4 +27,13 @@ html,body {
 
 i{
   padding-right:5px;
+}
+
+.is-fcc {
+  color: #006400;
+  font-size: 197px;
+}
+
+.is-checkio {
+  size: 1em;
 }
